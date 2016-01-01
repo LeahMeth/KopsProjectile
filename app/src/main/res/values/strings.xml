@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">KopsProjectile</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="velocityTV">Velocity</string>
+    <string name="angleTV">Angle</string>
+    <string name="timeTV">Time</string>
+
+
     <string name="action_settings">Settings</string>
 </resources>
